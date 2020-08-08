@@ -1,1 +1,2 @@
 # password-generator
+god this hw i was working on it all week and had a really messy file so i had my tutor session set up for it he said i had all the right ideas going i just wasnt utilizing things properly so he definetly helped a ton 
